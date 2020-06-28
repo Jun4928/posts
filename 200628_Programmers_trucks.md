@@ -1,4 +1,4 @@
-# Programmers Level2 다리를 지난 트럭
+# Programmers Level2 다리를 지나는 트럭
 ## JavaScript Stack, Queue  
 
 [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42583)
