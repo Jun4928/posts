@@ -1,5 +1,5 @@
 # JavaScript로 Merge Sort(병합정렬) 구현하기
-## JavaScript, Recursion 
+## JavaScript, Recursion, Divide and Conquer
 
 # 돌파구
 병합정렬은 크게 두 가지 함수로 이루어져 있다. 
