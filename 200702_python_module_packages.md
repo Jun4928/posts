@@ -128,7 +128,7 @@ def add_and_multiply(a,b):
 
 절대경로를 사용해서 `multiplication.py` 를 임포트할 때에도 결론적으로는 같은 개념이 적용된다. 이미 이 모듈은 `/Users/jun/wecode/python/packages/` 를 기본경로(Current Path)로 가지기 때문이다.
 
-# __init__.py 
+## __init__.py 
 ```
 ├── calculator
 │   ├── __init__.py
