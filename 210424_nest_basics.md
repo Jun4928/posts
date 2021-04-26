@@ -201,3 +201,11 @@ Nest.js는 위에서 서술한 장점에 의해 싱글톤패턴을 기본적으�
 - IoC(제어의 역전): 우리는 Nest.js 라는 프레임워크를 사용함으로써 우리가 제어해야 할 영억을 위임했다.
 - DI(의존성 주입): Nest.js 는 IoC를 구현하기 위해 의존성 주입이라는 개념을 사용했는데, 어플리케이션이 실행 될 때, 해당 클래스를 생성하기 위해 필요한 의존성을 생성하고 주입하는 코드를 동작시킨다.
 - Singleton(싱글톤): 의존성 주입을 위해서는 클래스를 인스턴스화 해야 하는데, Nest.js의 기본 설정으로 하나의 클래스는 오로지 하나의 인스턴스만을 가지도록 한다.
+
+## References
+
+- Dependency Injection Wekipedia: https://en.wikipedia.org/wiki/Dependency_injection
+- TypeDi: https://github.com/typestack/typedi
+- TypeScript Parameter Property: https://www.typescriptlang.org/docs/handbook/2/classes.html#parameter-properties
+- Wanago.io Dependency Injection: https://wanago.io/2020/06/15/api-with-nestjs-6-looking-into-dependency-injection-and-modules/
+- Nest.js Injection Scopes: https://docs.nestjs.com/fundamentals/injection-scopes
